@@ -20,7 +20,7 @@
     "vitest": "^4.1.11"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.112.3",
+    "@supabase/supabase-js": "^2.112.4",
     "@vaadin/router": "^2.0.1",
     "open-props": "^1.7.23"
   }
